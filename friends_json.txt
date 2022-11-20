@@ -1,0 +1,16 @@
+{
+	"data" :[
+    {
+        "title": "1Q84",
+        "author": "Haruki Murakami",
+        "year": 2009,
+        "read": true
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": 1890,
+        "read": false 
+    }
+]
+}

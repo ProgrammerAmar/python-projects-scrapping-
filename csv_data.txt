@@ -1,0 +1,5 @@
+name,age,university,degree
+Amar,22,kts,bca
+Reshav,19,BD,btech
+jashan,20,Thapar,BTech
+sadhna,21,Punjab University,Coder
